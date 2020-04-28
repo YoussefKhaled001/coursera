@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap&subset=cyrillic,cyrillic-ext,latin-ext,vietnamese');
+
+
+body
+{
+  font-family: 'Lobster' , sans-serif;
+  font-weight: 300 !important;
+  margin: 0px;
+  background-color: #10b;
+}
+body > header > h1
+{
+  float: left;
+  font-weight: 300;
+  color: #0bf;
+  margin: 0px;
+
+}
+#Main-Header
+{
+  border-bottom: 2px solid #000;
+  border-top: 1px solid #000;
+}
+
+body > div > center > button
+{
+  font-family: 'Lobster' , sans-serif;
+  margin: 0px -4px;
+  border: 1.5px solid #000;
+  background: #fff;
+  width: 250px;
+}
+
+
+body > header > h5{
+  padding: 30px;
+  padding-bottom: 3px;
+  padding-left: 180px;
+  margin: 2px;
+  color: #000;
+}
+body > div > center > audio
+{
+  height: 20px;
+  width: 300px;
+  margin: 10px 0px;
+}
